@@ -1,6 +1,5 @@
 # Amazon-Kindle-Data-Analysis
 This project focuses on analyzing Amazon Kindle book data using Advanced Excel. 
-The objective is to clean raw data, perform data modeling, generate insights using Pivot Tables and present the findings through an interactive dashboard.
 
 The analysis helps understand:
 * Book distribution across genres and years
